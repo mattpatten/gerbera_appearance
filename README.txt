@@ -14,7 +14,7 @@ Briefly, the pipeline performs the following:
 (v)   Perform Kovesi's phase congruency algorithm to identify stimulus edges and high frequency areas.
 (vi)  Perform k-means clustering on the L*a*b* colour channels to identify eccentricities with rapid colour changes.
 (vii) Segment flower into disk florets, trans florets and ray florets based on the above two algorithms. 
-(vii) Allow manual corrections to flower segmentations.
+(viii)Allow manual corrections to flower segmentations.
 (ix)  Generate values for ~45 flower attributes (e.g., width of ray florets), displaying representative images and histograms.
 (x)   Uses the values across all of these properties to group the flower set into a specific number of clusters.
 (xi)  Performs a regression analysis on these properties in order to explain behavioural ratings measured elsewhere (see flwrpoll)
