@@ -1,0 +1,1 @@
+Location where processed image files will be created/stored.
