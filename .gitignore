@@ -1,4 +1,4 @@
-data/
+data/*.mat
 flowerpoll/*/
 obsolete_functions/
 other_functions/
