@@ -1,6 +1,6 @@
 data/*.mat
+data/*/
 flowerpoll/*/
-obsolete_functions/
 other_functions/
 output/
 stimuli/Original/*/
